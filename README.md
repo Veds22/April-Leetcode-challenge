@@ -1,3 +1,3 @@
-Day 1: Leetcode 174. Dungeon Game
-- Used DP 
-- Intution: For each cell find viable min_hp to reach end cell from there
+Day 1: Leetcode Problem 174 - Dungeon Game
+Day 2(1): Leetcode Problem 3418 - Maximum Amount of Money Robot Can Earn
+Day 2(2): Leetcode Problem 3661 - Maximum Walls Destroyed by Robots
