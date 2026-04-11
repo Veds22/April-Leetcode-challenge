@@ -6,3 +6,5 @@
 - Day 3: Leetcode Problem 874 - Walking Robot Simulation
 - Day 4: Leetcode Problem 2069 - Walking Robot Simulation II
 - Day 5: Leetcode Problem 3653 - XOR After Range Multiplication Queries I
+- Day 6: Leetcode Problem 3655 - XOR After Range Multiplication Queries II
+- Day 7: Leetcode Problem 3740 - Minimum Distance Between Three Equal Elements I
